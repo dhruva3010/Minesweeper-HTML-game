@@ -4,9 +4,7 @@ A beautiful, modern implementation of the classic Minesweeper game built with HT
 
 ## 📸 Screenshot
 
-![Minesweeper Game Screenshot](screenshot.png)
-
-*Add your screenshot here by taking a screenshot of the game and saving it as `screenshot.png` in the same directory*
+![Minesweeper Game Screenshot](Screenshot.png)
 
 ## 🎮 Features
 
